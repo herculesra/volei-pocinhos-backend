@@ -1,2 +1,2 @@
 # volei-pocinhos-backend
-Backend for the application
+Backend for application
